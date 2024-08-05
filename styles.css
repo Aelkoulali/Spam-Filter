@@ -1,0 +1,20 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root{
+  --white:white;
+  --blue:#0080ff;
+  --navy:#111B3C;
+  --orange:#ff7f00;
+}
+
+body {
+    background-color: var(--blue);
+    color: var(--white);
+    font-family: "Roboto", sans-serif;
+}

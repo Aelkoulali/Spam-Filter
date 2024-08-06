@@ -39,12 +39,14 @@ textarea {
 .description {
   margin-top: 15px;
   font-size: 1.4rem;
+  font-weight: bolder;
 }
 
 .message-label {
   display: block;
   margin-bottom: 20px;
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 #message-input:placeholder-shown,
@@ -57,12 +59,15 @@ textarea {
   display: block;
   cursor: pointer;
   width: 200px;
+  height: 40px;
   margin: 10px auto;
   color: var(--navy);
   background-color: var(--orange);
   border-color: var(--white);
   border-width: 3px;
+  font-size: 1.1rem;
   font-weight: bolder;
+  content: var(--navy);
 }
 
 #result {

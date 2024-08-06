@@ -50,4 +50,22 @@ textarea {
 #message-input:placeholder-shown,
 textarea {
   font-size: 1.1rem;
+  border: #111B3C 3px solid;
+}
+
+.btn {
+  display: block;
+  cursor: pointer;
+  width: 200px;
+  margin: 10px auto;
+  color: var(--navy);
+  background-color: var(--orange);
+  border-color: var(--white);
+  border-width: 3px;
+  font-weight: bolder;
+}
+
+#result {
+  font-size: 2rem;
+  margin: 20px 0;
 }

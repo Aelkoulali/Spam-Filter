@@ -65,7 +65,7 @@ textarea {
   background-color: var(--orange);
   border-color: var(--white);
   border-width: 3px;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: bolder;
   content: var(--navy);
 }

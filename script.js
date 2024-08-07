@@ -7,7 +7,7 @@ const isSpam = (msg)=> false;
 
 // Add addEventListener to checkMessageButton
 checkMessageButton.addEventListener("click", ()=> {
-    if(messageInput ===""){
+    if(messageInput.value === ""){
         alert("Please enter a message.");
         return;
     }

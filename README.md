@@ -1,4 +1,4 @@
-# 🗂️ Spam Filter 🔍 
+# 🗂️ Spam Filter 🗑️ 
 ## ➡️ Key Concepts :
 ### ✅ Regular expressions
 ### ✅ Capture groups
